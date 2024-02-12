@@ -9,7 +9,7 @@ Practicing common Excel keyboard shortcuts
 ## Task 2: Conditional Formatting
 Use Excel’s conditional formatting tools to explore and visualize the characteristics of the data in the dataset
 
-Highlighted any cell with formula errors in purple with white text.
+### Highlighted any cell with formula errors in purple with white text.
 Highlighted any cell with missing values in yellow.
 Identified accounts that have not been cross sold with Product 2 by highlighting the appropriate Product 2 cells in orange.
 Identified accounts that have a 5-year sales CAGR of at least 100% in Green and any account with a negative CAGR in red with white text.
